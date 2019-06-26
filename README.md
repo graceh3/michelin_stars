@@ -1,4 +1,4 @@
-# Data Analysis of Michelin-rated restaurants in NYC
+# Exploratory Analysis of Michelin-rated restaurants in NYC
 
 ### Tools: Pandas, BeautifulSoup, Requests, Plotly, Folium
 
