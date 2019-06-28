@@ -4,10 +4,5 @@
 
 <img align="middle" src="michelinstars.png" width="450">
 
-## About
-
-## Data
 
 ## Analysis
-
-## Conclusion
