@@ -1,8 +1,7 @@
 # Exploratory Analysis of Michelin-rated restaurants in NYC
 
-### Tools: Pandas, BeautifulSoup, Requests, Plotly, Folium
+#### Tools: Pandas, BeautifulSoup, Requests, Plotly, Folium
 
-<img align="middle" src="michelinstars.png" width="450">
+To view a summary of this project, check out my Medium post:
 
-
-## Analysis
+https://medium.com/@grace01/exploratory-analysis-of-michelin-restaurants-in-new-york-city-3a9df5acb063
